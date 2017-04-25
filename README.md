@@ -1,6 +1,6 @@
 # npmtest-flatiron
 
-#### test coverage for  [flatiron (v0.4.3)](https://github.com/flatiron/flatiron)  [![npm package](https://img.shields.io/npm/v/npmtest-flatiron.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flatiron) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flatiron.svg)](https://travis-ci.org/npmtest/node-npmtest-flatiron)
+#### basic test coverage for  [flatiron (v0.4.3)](https://github.com/flatiron/flatiron)  [![npm package](https://img.shields.io/npm/v/npmtest-flatiron.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-flatiron) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-flatiron.svg)](https://travis-ci.org/npmtest/node-npmtest-flatiron)
 
 #### An elegant blend of convention and configuration for building apps in Node.js and the browser
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-flatiron/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-flatiron/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-flatiron/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-flatiron/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-flatiron/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-flatiron/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-flatiron/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-flatiron/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-flatiron/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-flatiron/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-flatiron/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-flatiron/build/coverage.html/index.html)
 
